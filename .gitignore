@@ -1,0 +1,5 @@
+venv/
+flag.txt
+worknotes.txt
+*.pyc
+__pycache__/
